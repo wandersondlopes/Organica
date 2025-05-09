@@ -1,5 +1,6 @@
 # Organica
 
-O App faz a coleta de fotografias de solo e que é enviado ao firebase.
-Essas fotos são analizadas em um outra aplicação
-projeto para um app usando Kodular e Firebase.
+Sistema de análise de matéria orgânica de solo
+O App faz a coleta de fotografias do solo.
+Essas fotos são enviadas para outra aplicação e analizadas
+a outra aplicação utiliza firebase.
